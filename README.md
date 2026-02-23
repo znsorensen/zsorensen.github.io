@@ -5,12 +5,11 @@ Website Draft
   <head>
     <title>Zachary Sorensen</title>
   </head>
-  
   <body>
-      <h1>Ian Sikes</h1>
-      <h4>CS Student</h4>
+      <h1>Zachary Sorensen</h1>
+      <h4>Master's Student</h4>
     Hello World!
-    <a href=</a>
+    <a href="https://www.linkedin.com/in/zacharysorensen/"LinkedIn Profile</a>
   </body>
 </html>
 
